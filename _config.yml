@@ -1,5 +1,5 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
-show_downloads: true
+title: AD and Splunk homelab
+description: A small homelab about implementing AD environment and Splunk to monitor it
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
